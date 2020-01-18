@@ -1,0 +1,24 @@
+* { position: absolute;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 100px 60px;
+    /*background: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.05)),
+        url(${background}) no-repeat;*/
+    background-size: cover;
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+    @media (max-width: 1000px) {
+        flex-direction: column;
+
+        main {
+            margin-top: 30px;
+        }
+
+        aside {
+            width: 100%;
+        }
+    }
+}

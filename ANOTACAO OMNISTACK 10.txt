@@ -1,0 +1,11 @@
+Comando para iniciar o projeto react.js, onde web é o nome da pasta do projeto:
+yarn create react-app web
+
+// Componente - é um bloco isolado de HTML, CSS e JS, o qual nao interfere no 
+//restante da aplicação
+
+// Propriedade - Informaçoes que um componente PAI passa para o componente FILHO 
+
+// Estado - Informaçoes mantidas pelo componente(Lembrar:imutabilidade)
+
+[Tempo do video:1 hora] falta o resto
