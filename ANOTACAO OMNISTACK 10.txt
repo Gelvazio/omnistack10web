@@ -9,3 +9,5 @@ yarn create react-app web
 // Estado - Informaçoes mantidas pelo componente(Lembrar:imutabilidade)
 
 [Tempo do video:1 hora] falta o resto
+[Tempo do video:1 hora] falta o resto
+[Tempo do video:1 hora] falta o resto
