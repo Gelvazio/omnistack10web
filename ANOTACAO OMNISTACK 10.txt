@@ -11,3 +11,4 @@ yarn create react-app web
 [Tempo do video:1 hora] falta o resto
 [Tempo do video:1 hora] falta o resto
 [Tempo do video:1 hora] falta o resto
+[Tempo do video:1 hora] falta o resto
